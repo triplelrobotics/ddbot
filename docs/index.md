@@ -16,8 +16,6 @@ Our robot project is named as "ddbot", standing for the ground mobile **d**iffer
 
 [Dev Update #1 (20240106)](./blog/posts/20240106.md)
 
-[Introduce TripleL Robotics](./blog/posts/intro_triplelrobotics.md)
-
 <!-- ## AI capabilities -->
 
 <!-- ## Affordable -->
